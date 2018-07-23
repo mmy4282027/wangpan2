@@ -1,0 +1,106 @@
+mmy       connect   Fri Jul 20 20:33:19 2018
+mmy       ls        Fri Jul 20 20:33:20 2018
+mmy       ls        Fri Jul 20 20:33:20 2018
+mmy       pwd       Fri Jul 20 20:33:21 2018
+mmy       puts AAA  Fri Jul 20 20:33:26 2018
+mmy       connect   Sat Jul 21 03:17:45 2018
+mmy       ls        Sat Jul 21 03:17:46 2018
+mmy       pwd       Sat Jul 21 03:17:48 2018
+mmy       ls        Sat Jul 21 03:17:50 2018
+mmy       puts AAA  Sat Jul 21 03:17:58 2018
+mmy       gets AAA  Sat Jul 21 03:18:18 2018
+mmy       ls        Sat Jul 21 03:18:26 2018
+mmy       connect   Sat Jul 21 05:48:05 2018
+mmy       ls        Sat Jul 21 05:48:07 2018
+mmy       ls        Sat Jul 21 05:48:10 2018
+mmy       pwd       Sat Jul 21 05:48:12 2018
+mmy       cd mmy    Sat Jul 21 05:48:18 2018
+mmy       ls        Sat Jul 21 05:48:20 2018
+mmy       remove AAASat Jul 21 05:48:38 2018
+mmy       ls        Sat Jul 21 05:48:41 2018
+mmy       puts AAA  Sat Jul 21 05:48:46 2018
+mmy       ls        Sat Jul 21 05:48:47 2018
+mmy       remove AAASat Jul 21 05:48:52 2018
+mmy       ls        Sat Jul 21 05:48:53 2018
+mmy       puts AAA  Sat Jul 21 05:48:58 2018
+mmy       ls        Sat Jul 21 05:48:59 2018
+mmy       ls        Sat Jul 21 05:56:33 2018
+mmy       pwd       Sat Jul 21 05:56:36 2018
+mmy       cd ..     Sat Jul 21 05:56:38 2018
+mmy       ls        Sat Jul 21 05:56:39 2018
+mmy       gets bigfileSat Jul 21 05:56:49 2018
+mmy       ls        Sat Jul 21 05:56:52 2018
+mmy       ls        Sat Jul 21 05:57:33 2018
+mmy       ls        Sat Jul 21 05:57:42 2018
+mmy       ls        Sat Jul 21 05:57:50 2018
+mmy       pwd       Sat Jul 21 05:58:12 2018
+mmy       ls        Sat Jul 21 05:58:13 2018
+mmy       ls        Sat Jul 21 05:59:31 2018
+mmy       gets bigfileSat Jul 21 05:59:47 2018
+mmy       connect   Sat Jul 21 06:09:33 2018
+mmy       ls        Sat Jul 21 06:09:34 2018
+mmy       gets bigfileSat Jul 21 06:09:46 2018
+mmy       connect   Sat Jul 21 06:10:10 2018
+mmy       gets bigfileSat Jul 21 06:10:20 2018
+mmy       connect   Sat Jul 21 20:04:23 2018
+mmy       ls        Sat Jul 21 20:04:24 2018
+mmy       pwd       Sat Jul 21 20:04:26 2018
+mmy       gets AAA  Sat Jul 21 20:05:28 2018
+mmy       gets bigfileSat Jul 21 20:05:39 2018
+mmy       connect   Sat Jul 21 20:14:23 2018
+mmy       ls        Sat Jul 21 20:14:24 2018
+mmy       gets bigfileSat Jul 21 20:14:33 2018
+mmy       connect   Sat Jul 21 20:23:22 2018
+mmy       ls        Sat Jul 21 20:23:24 2018
+mmy       gets bigfileSat Jul 21 20:23:29 2018
+          test_user_name lsSat Jul 21 20:23:52 2018
+mmy       connect   Sat Jul 21 20:24:06 2018
+mmy       ls        Sat Jul 21 20:24:08 2018
+mmy       pwd       Sat Jul 21 20:24:33 2018
+mmy       ls        Sat Jul 21 20:24:34 2018
+mmy       connect   Sat Jul 21 20:24:54 2018
+mmy       gets AAA  Sat Jul 21 20:24:57 2018
+mmy       ls        Sat Jul 21 20:24:58 2018
+mmy       puts AAA  Sat Jul 21 20:25:03 2018
+mmy       ls        Sat Jul 21 20:25:04 2018
+mmy       gets bigfileSat Jul 21 20:25:17 2018
+mmy       connect   Sat Jul 21 20:28:36 2018
+mmy       ls        Sat Jul 21 20:28:37 2018
+mmy       gets bigfileSat Jul 21 20:28:50 2018
+mmy       connect   Sat Jul 21 20:34:32 2018
+mmy       ls        Sat Jul 21 20:34:33 2018
+mmy       gets bigfileSat Jul 21 20:34:42 2018
+mmy       connect   Sat Jul 21 20:38:35 2018
+mmy       ls        Sat Jul 21 20:38:37 2018
+mmy       gets bigfileSat Jul 21 20:38:45 2018
+mmy       connect   Sat Jul 21 20:40:27 2018
+mmy       puts bigfileSat Jul 21 20:40:32 2018
+mmy       connect   Sat Jul 21 20:40:46 2018
+mmy       ls        Sat Jul 21 20:40:47 2018
+mmy       gets bigfileSat Jul 21 20:41:05 2018
+mmy       connect   Sat Jul 21 20:44:42 2018
+mmy       gets bigfileSat Jul 21 20:44:49 2018
+mmy       connect   Sat Jul 21 20:47:34 2018
+mmy       ls        Sat Jul 21 20:47:35 2018
+mmy       gets bigfileSat Jul 21 20:47:41 2018
+mmy       connect   Sat Jul 21 20:48:21 2018
+mmy       ls        Sat Jul 21 20:48:22 2018
+mmy       gets bigfileSat Jul 21 20:48:29 2018
+mmy       connect   Sat Jul 21 20:57:28 2018
+mmy       ls        Sat Jul 21 20:57:30 2018
+mmy       gets bigfileSat Jul 21 20:57:36 2018
+mmy       connect   Sat Jul 21 20:58:25 2018
+mmy       ls        Sat Jul 21 20:58:27 2018
+mmy       gets bigfileSat Jul 21 20:58:32 2018
+mmy       connect   Sat Jul 21 21:01:57 2018
+mmy       ls        Sat Jul 21 21:01:58 2018
+mmy       gets bigfileSat Jul 21 21:02:04 2018
+mmy       connect   Sat Jul 21 21:04:10 2018
+mmy       ls        Sat Jul 21 21:04:11 2018
+mmy       gets bigfileSat Jul 21 21:04:15 2018
+mmy       connect   Sat Jul 21 21:06:14 2018
+mmy       ls        Sat Jul 21 21:06:15 2018
+mmy       gets bigfileSat Jul 21 21:06:24 2018
+mmy       connect   Sat Jul 21 21:08:33 2018
+mmy       ls        Sat Jul 21 21:08:34 2018
+mmy       gets bigfileSat Jul 21 21:08:41 2018
